@@ -27,7 +27,7 @@
         "id":       "xmltv",
         "label":    "XMLTV file name or URL",
         "type":     "text",
-        "default":  "http://programtv.ru/xmltv.xml.gz"
+        "default":  "https://raw.githubusercontent.com/barmaglotspot/IPTV.bundle/master/Contents/Resources/guide.xml"
     },
     {
         "id":       "guide_hours",
