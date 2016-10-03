@@ -3,7 +3,7 @@
         "id":       "playlist",
         "label":    "Playlist file name or URL (requires restart)",
         "type":     "text",
-        "default":  "playlist.m3u"
+        "default":  "https://raw.githubusercontent.com/barmaglotspot/IPTV.bundle/master/Contents/Resources/playlist.m3u"
     },
     {
         "id":       "sort_groups",
