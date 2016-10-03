@@ -1,37 +1,37 @@
 [
     {
         "id":       "playlist",
-        "label":    "Playlist file name or URL (requires restart)",
+        "label":    "Файл плейлиста или адрес URL (необходим перезапуск)",
         "type":     "text",
         "default":  "https://raw.githubusercontent.com/barmaglotspot/IPTV-Tritel.bundle/master/Contents/Resources/playlist.m3u"
     },
     {
         "id":       "sort_groups",
-        "label":    "Sort groups by name",
+        "label":    "Сортировать группы по названию",
         "type":     "bool",
         "default":  "true"
     },
     {
         "id":       "sort_lists",
-        "label":    "Sort streams by name",
+        "label":    "Сортировать каналы по названию",
         "type":     "bool",
         "default":  "true"
     },
     {
         "id":       "rtmp",
-        "label":    "Use Real RTMP (need to edit file Info.plist manually)",
+        "label":    "Использовать RTMP (необходимо редактирование файла Info.plist)",
         "type":     "bool",
         "default":  "false"
     },
     {
         "id":       "xmltv",
-        "label":    "XMLTV file name or URL",
+        "label":    "Файл программы ТВ или адрес URL",
         "type":     "text",
         "default":  "https://raw.githubusercontent.com/barmaglotspot/IPTV-Tritel.bundle/master/Contents/Resources/guide.xml"
     },
     {
         "id":       "guide_hours",
-        "label":    "Ammount of hours to look forward when fetching program guide (default 8)",
+        "label":    "На сколько часов вперед отображать программу передач (по умолчанию 8)",
         "type":     "text",
         "default":  "8"
     }
