@@ -3,7 +3,7 @@
 http://172.31.254.110:3000/с1
 #EXTINF:0 tvg-id="Rossiya-1" tvg-logo="icon-default.png" group-title="Основные каналы" group-logo="icon-folder.png",Rossiya-1
 http://172.31.254.110:3000/с2
-#EXTINF:0,Match! tvg-id="Match" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png"
+#EXTINF:0 tvg-id="Match" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Match!
 http://172.31.254.110:3000/с3
 #EXTINF:0,HTB
 http://172.31.254.110:3000/с4
@@ -91,15 +91,15 @@ http://172.31.254.110:5000/с24
 http://172.31.254.110:5000/с25
 #EXTINF:0,Nash Sport
 http://172.31.254.110:5000/с26
-#EXTINF:0,Nash Futbol
+#EXTINF:0 tvg-id="Nash Futbol" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Nash Futbol
 http://172.31.254.110:5000/с27
-#EXTINF:0,KHL
+#EXTINF:0 tvg-id="KHL" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",KHL
 http://172.31.254.110:5000/с28
-#EXTINF:0,Football 1 HD
+#EXTINF:0 tvg-id="Football 1 HD" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Football 1 HD
 http://172.31.254.110:5000/с29
-#EXTINF:0,Football 2 HD
+#EXTINF:0 tvg-id="Football 2 HD" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Football 2 HD
 http://172.31.254.110:5000/с30
-#EXTINF:0,Football 3 HD
+#EXTINF:0 tvg-id="Football 3 HD" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Football 3 HD
 http://172.31.254.110:5000/с31
 #EXTINF:0,Kinopokaz
 http://172.31.254.110:5000/с32
