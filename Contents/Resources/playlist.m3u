@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:0,Pervy Kanal
+#EXTINF:0,Pervy Kanal tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с1
-#EXTINF:0,Rossiya-1
+#EXTINF:0,Rossiya-1 tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с2
-#EXTINF:0,Match!
+#EXTINF:0,Match! tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с3
-#EXTINF:0,HTB
+#EXTINF:0,HTB tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с4
-#EXTINF:0,5 kanal
+#EXTINF:0,5 kanal tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с5
-#EXTINF:0,Rossiya-K
+#EXTINF:0,Rossiya-K tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с6
-#EXTINF:0,Rossiya 24
+#EXTINF:0,Rossiya 24 tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с7
-#EXTINF:0,Karusel
+#EXTINF:0,Karusel tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с8
-#EXTINF:0,OTP
+#EXTINF:0,OTP tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с9
-#EXTINF:0,TVC
+#EXTINF:0,TVC tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с10
-#EXTINF:0,REN-TV
+#EXTINF:0,REN-TV tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с11
-#EXTINF:0,SPAS
+#EXTINF:0,SPAS tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с12
 #EXTINF:0,STS
 http://172.31.254.110:3000/с13
