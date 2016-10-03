@@ -1,111 +1,111 @@
 #EXTM3U
-#EXTINF:0,Pervy Kanal tvg-logo="icon-default.png"
+#EXTINF:0,Pervy Kanal
 http://172.31.254.110:3000/с1
-#EXTINF:0,Rossiya-1 tvg-logo="icon-default.png"
+#EXTINF:0,Rossiya-1
 http://172.31.254.110:3000/с2
-#EXTINF:0,Match! tvg-logo="icon-default.png"
+#EXTINF:0,Match!
 http://172.31.254.110:3000/с3
-#EXTINF:0,HTB tvg-logo="icon-default.png"
+#EXTINF:0,HTB
 http://172.31.254.110:3000/с4
-#EXTINF:0,5 kanal tvg-logo="icon-default.png"
+#EXTINF:0,5 kanal
 http://172.31.254.110:3000/с5
-#EXTINF:0,Rossiya-K tvg-logo="icon-default.png"
+#EXTINF:0,Rossiya-K
 http://172.31.254.110:3000/с6
-#EXTINF:0,Rossiya 24 tvg-logo="icon-default.png"
+#EXTINF:0,Rossiya 24
 http://172.31.254.110:3000/с7
-#EXTINF:0,Karusel tvg-logo="icon-default.png"
+#EXTINF:0,Karusel
 http://172.31.254.110:3000/с8
-#EXTINF:0,OTP tvg-logo="icon-default.png"
+#EXTINF:0,OTP
 http://172.31.254.110:3000/с9
-#EXTINF:0,TVC tvg-logo="icon-default.png"
+#EXTINF:0,TVC
 http://172.31.254.110:3000/с10
-#EXTINF:0,REN-TV tvg-logo="icon-default.png"
+#EXTINF:0,REN-TV
 http://172.31.254.110:3000/с11
-#EXTINF:0,SPAS tvg-logo="icon-default.png"
+#EXTINF:0,SPAS
 http://172.31.254.110:3000/с12
-#EXTINF:0,STS tvg-logo="icon-default.png"
+#EXTINF:0,STS
 http://172.31.254.110:3000/с13
-#EXTINF:0,Domashny tvg-logo="icon-default.png"
+#EXTINF:0,Domashny
 http://172.31.254.110:3000/с14
-#EXTINF:0,TB 3 tvg-logo="icon-default.png"
+#EXTINF:0,TB 3
 http://172.31.254.110:3000/с15
-#EXTINF:0,Pyatnica tvg-logo="icon-default.png"				
+#EXTINF:0,Pyatnica				
 http://172.31.254.110:3000/с16
-#EXTINF:0,Zvezda tvg-logo="icon-default.png"
+#EXTINF:0,Zvezda
 http://172.31.254.110:3000/с17
-#EXTINF:0,Mir tvg-logo="icon-default.png"
+#EXTINF:0,Mir
 http://172.31.254.110:3000/с18
-#EXTINF:0,THT tvg-logo="icon-default.png"
+#EXTINF:0,THT
 http://172.31.254.110:3000/с19
-#EXTINF:0,Muz TV tvg-logo="icon-default.png"
+#EXTINF:0,Muz
 http://172.31.254.110:3000/с20
-#EXTINF:0,Mir 24 tvg-logo="icon-default.png"
+#EXTINF:0,Mir 24
 http://172.31.254.110:5000/с1
-#EXTINF:0,ChE tvg-logo="icon-default.png"
+#EXTINF:0,ChE
 http://172.31.254.110:5000/с2
-#EXTINF:0,Moskva 24 tvg-logo="icon-default.png"
+#EXTINF:0,Moskva 24
 http://172.31.254.110:5000/с3
-#EXTINF:0,Millet tvg-logo="icon-default.png"
+#EXTINF:0,Millet
 http://172.31.254.110:5000/с4
-#EXTINF:0,Krym 1 tvg-logo="icon-default.png"
+#EXTINF:0,Krym 1
 http://172.31.254.110:5000/с5
-#EXTINF:0,Krym 24 tvg-logo="icon-default.png"
+#EXTINF:0,Krym 24
 http://172.31.254.110:5000/с6
-#EXTINF:0,Moya Planeta tvg-logo="icon-default.png"
+#EXTINF:0,Moya Planeta
 http://172.31.254.110:5000/с7
-#EXTINF:0,Russky Roman tvg-logo="icon-default.png"
+#EXTINF:0,Russky Roman
 http://172.31.254.110:5000/с8
-#EXTINF:0,Sarafan tvg-logo="icon-default.png"
+#EXTINF:0,Sarafan
 http://172.31.254.110:5000/с9
-#EXTINF:0,360 tvg-logo="icon-default.png"
+#EXTINF:0,360
 http://172.31.254.110:5000/с10
-#EXTINF:0,Mult tvg-logo="icon-default.png"
+#EXTINF:0,Mult
 http://172.31.254.110:5000/с11
-#EXTINF:0,T24 tvg-logo="icon-default.png"
+#EXTINF:0,T24
 http://172.31.254.110:5000/с12
-#EXTINF:0,Ryzhi tvg-logo="icon-default.png"
+#EXTINF:0,Ryzhi
 http://172.31.254.110:5000/с13
-#EXTINF:0,Teleputeshestvia tvg-logo="icon-default.png"
+#EXTINF:0,Teleputeshestvia
 http://172.31.254.110:5000/с14
-#EXTINF:0,AvtoPlus tvg-logo="icon-default.png"
+#EXTINF:0,AvtoPlus
 http://172.31.254.110:5000/с15
-#EXTINF:0,Indijskoe Kino tvg-logo="icon-default.png"
+#EXTINF:0,Indijskoe Kino
 http://172.31.254.110:5000/с16
-#EXTINF:0,Kinomix tvg-logo="icon-default.png"
+#EXTINF:0,Kinomix
 http://172.31.254.110:5000/с17
-#EXTINF:0,Kinohit tvg-logo="icon-default.png"
+#EXTINF:0,Kinohit
 http://172.31.254.110:5000/с18
-#EXTINF:0,Kinokommediya tvg-logo="icon-default.png"
+#EXTINF:0,Kinokommediya
 http://172.31.254.110:5000/с19
-#EXTINF:0,Muzhskoe Kino tvg-logo="icon-default.png"
+#EXTINF:0,Muzhskoe Kino
 http://172.31.254.110:5000/с20
-#EXTINF:0,TV-FM tvg-logo="icon-default.png"
+#EXTINF:0,TV-FM
 http://172.31.254.110:5000/с21
-#EXTINF:0,LifeNews tvg-logo="icon-default.png"
+#EXTINF:0,LifeNews
 http://172.31.254.110:5000/с22
-#EXTINF:0,Match Arena tvg-logo="icon-default.png"
+#EXTINF:0,Match Arena
 http://172.31.254.110:5000/с23
-#EXTINF:0,Match Boets tvg-logo="icon-default.png"
+#EXTINF:0,Match Boets
 http://172.31.254.110:5000/с24
-#EXTINF:0,Match Igra tvg-logo="icon-default.png"
+#EXTINF:0,Match Igra
 http://172.31.254.110:5000/с25
-#EXTINF:0,Nash Sport tvg-logo="icon-default.png"
+#EXTINF:0,Nash Sport
 http://172.31.254.110:5000/с26
-#EXTINF:0,Nash Futbol tvg-logo="icon-default.png"
+#EXTINF:0,Nash Futbol
 http://172.31.254.110:5000/с27
-#EXTINF:0,KHL tvg-logo="icon-default.png"
+#EXTINF:0,KHL
 http://172.31.254.110:5000/с28
-#EXTINF:0,Football 1 HD tvg-logo="icon-default.png"
+#EXTINF:0,Football 1 HD
 http://172.31.254.110:5000/с29
-#EXTINF:0,Football 2 HD tvg-logo="icon-default.png"
+#EXTINF:0,Football 2 HD
 http://172.31.254.110:5000/с30
-#EXTINF:0,Football 3 HD tvg-logo="icon-default.png"
+#EXTINF:0,Football 3 HD
 http://172.31.254.110:5000/с31
-#EXTINF:0,Kinopokaz tvg-logo="icon-default.png"
+#EXTINF:0,Kinopokaz
 http://172.31.254.110:5000/с32
-#EXTINF:0,Zagorodnyi TV tvg-logo="icon-default.png"
+#EXTINF:0,Zagorodnyi TV
 http://172.31.254.110:5000/с33
-#EXTINF:0,Ohotnik i Rybolov tvg-logo="icon-default.png"
+#EXTINF:0,Ohotnik i Rybolov
 http://172.31.254.110:5000/с34
-#EXTINF:0,Tonus TV tvg-logo="icon-default.png"
+#EXTINF:0,Tonus TV
 http://172.31.254.110:5000/с35
