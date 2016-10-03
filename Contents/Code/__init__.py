@@ -17,7 +17,7 @@ import xml.etree.ElementTree # https://docs.python.org/2/library/xml.etree.eleme
 import time
 import calendar
 
-TITLE = 'IPTV'
+TITLE = 'IPTV-Tritel'
 PREFIX = '/video/iptv'
 GROUPS = {}
 STREAMS = {}
