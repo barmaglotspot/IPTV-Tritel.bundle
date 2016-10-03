@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0 tvg-id="Pervy Kanal" tvg-logo="icon-default.png" group-title="Основные каналы" group-logo="icon-folder.png",Pervy Kanal
 http://172.31.254.110:3000/с1
-#EXTINF:0,Rossiya-1
+#EXTINF:0 tvg-id="Rossiya-1" tvg-logo="icon-default.png" group-title="Основные каналы" group-logo="icon-folder.png",Rossiya-1
 http://172.31.254.110:3000/с2
-#EXTINF:0,Match!
+#EXTINF:0,Match! tvg-id="Match" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png"
 http://172.31.254.110:3000/с3
 #EXTINF:0,HTB
 http://172.31.254.110:3000/с4
