@@ -3,7 +3,7 @@
         "id":       "playlist",
         "label":    "Playlist file name or URL (requires restart)",
         "type":     "text",
-        "default":  "https://raw.githubusercontent.com/barmaglotspot/IPTV.bundle/master/Contents/Resources/playlist.m3u"
+        "default":  "https://raw.githubusercontent.com/barmaglotspot/IPTV-Tritel.bundle/master/Contents/Resources/playlist.m3u"
     },
     {
         "id":       "sort_groups",
@@ -27,7 +27,7 @@
         "id":       "xmltv",
         "label":    "XMLTV file name or URL",
         "type":     "text",
-        "default":  "https://raw.githubusercontent.com/barmaglotspot/IPTV.bundle/master/Contents/Resources/guide.xml"
+        "default":  "https://raw.githubusercontent.com/barmaglotspot/IPTV-Tritel.bundle/master/Contents/Resources/guide.xml"
     },
     {
         "id":       "guide_hours",
