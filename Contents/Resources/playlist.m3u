@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="Pervy Kanal" tvg-logo="icon-default.png" group-title="Cartoons" group-logo="icon-folder.png",Pervy Kanal
+#EXTINF:0 tvg-id="Pervy Kanal" tvg-logo="icon-default.png" group-title="Cartoons" group-logo="icon-folder.png" group-title="Music",Pervy Kanal
 http://172.31.254.110:3000/с1
 #EXTINF:0,Rossiya-1
 http://172.31.254.110:3000/с2
