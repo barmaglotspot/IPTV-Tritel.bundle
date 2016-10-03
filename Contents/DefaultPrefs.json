@@ -27,7 +27,7 @@
         "id":       "xmltv",
         "label":    "XMLTV file name or URL",
         "type":     "text",
-        "default":  "guide.xml"
+        "default":  "http://programtv.ru/xmltv.xml.gz"
     },
     {
         "id":       "guide_hours",
