@@ -23,75 +23,75 @@ http://172.31.254.110:3000/с10
 http://172.31.254.110:3000/с11
 #EXTINF:0,SPAS tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с12
-#EXTINF:0,STS
+#EXTINF:0,STS tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с13
-#EXTINF:0,Domashny
+#EXTINF:0,Domashny tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с14
-#EXTINF:0,TB 3
+#EXTINF:0,TB 3 tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с15
-#EXTINF:0,Pyatnica					
+#EXTINF:0,Pyatnica tvg-logo="icon-default.png"				
 http://172.31.254.110:3000/с16
-#EXTINF:0,Zvezda
+#EXTINF:0,Zvezda tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с17
-#EXTINF:0,Mir
+#EXTINF:0,Mir tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с18
-#EXTINF:0,THT
+#EXTINF:0,THT tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с19
-#EXTINF:0,Muz TV
+#EXTINF:0,Muz TV tvg-logo="icon-default.png"
 http://172.31.254.110:3000/с20
-#EXTINF:0,Mir 24
+#EXTINF:0,Mir 24 tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с1
-#EXTINF:0,ChE
+#EXTINF:0,ChE tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с2
-#EXTINF:0,Moskva 24
+#EXTINF:0,Moskva 24 tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с3
-#EXTINF:0,Millet
+#EXTINF:0,Millet tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с4
-#EXTINF:0,Krym 1
+#EXTINF:0,Krym 1 tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с5
-#EXTINF:0,Krym 24
+#EXTINF:0,Krym 24 tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с6
-#EXTINF:0,Moya Planeta
+#EXTINF:0,Moya Planeta tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с7
-#EXTINF:0,Russky Roman
+#EXTINF:0,Russky Roman tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с8
-#EXTINF:0,Sarafan
+#EXTINF:0,Sarafan tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с9
-#EXTINF:0,360
+#EXTINF:0,360 tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с10
-#EXTINF:0,Mult
+#EXTINF:0,Mult tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с11
-#EXTINF:0,T24
+#EXTINF:0,T24 tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с12
-#EXTINF:0,Ryzhi
+#EXTINF:0,Ryzhi tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с13
-#EXTINF:0,Teleputeshestvia
+#EXTINF:0,Teleputeshestvia tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с14
-#EXTINF:0,AvtoPlus
+#EXTINF:0,AvtoPlus tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с15
-#EXTINF:0,Indijskoe Kino
+#EXTINF:0,Indijskoe Kino tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с16
-#EXTINF:0,Kinomix
+#EXTINF:0,Kinomix tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с17
-#EXTINF:0,Kinohit
+#EXTINF:0,Kinohit tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с18
-#EXTINF:0,Kinokommediya
+#EXTINF:0,Kinokommediya tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с19
-#EXTINF:0,Muzhskoe Kino
+#EXTINF:0,Muzhskoe Kino tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с20
-#EXTINF:0,TV-FM
+#EXTINF:0,TV-FM tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с21
-#EXTINF:0,LifeNews
+#EXTINF:0,LifeNews tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с22
-#EXTINF:0,Match Arena
+#EXTINF:0,Match Arena tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с23
-#EXTINF:0,Match Boets
+#EXTINF:0,Match Boets tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с24
-#EXTINF:0,Match Igra
+#EXTINF:0,Match Igra tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с25
-#EXTINF:0,Nash Sport
+#EXTINF:0,Nash Sport tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с26
-#EXTINF:0,Nash Futbol
+#EXTINF:0,Nash Futbol tvg-logo="icon-default.png"
 http://172.31.254.110:5000/с27
 #EXTINF:0,KHL
 http://172.31.254.110:5000/с28
