@@ -83,14 +83,14 @@ def LoadGuide():
 
 def datetime_from_utc_to_local(input_datetime):
 
-    #Get local offset from UTC in seconds
+    #местное смещение от UTC в секундах
     local_offset_in_seconds = calendar.timegm(time.localtime()) - calendar.timegm(time.gmtime(time.mktime(time.localtime())))
-    #split time from offset
+    #время от смещения
     input_datetime_split = input_datetime.split(" ")
     input_datetime_only = input_datetime_split[0]
-    # Convert input date to a proper date
+    # Преобразование даты ввода правильной даты
     input_datetime_only_dt = datetime.strptime(input_datetime_only, '%Y%m%d%H%M%S')
-    # If exists - convert input_offset_only to seconds otherwise set to 0
+    # Если существует преобразование input_offset_only до нескольких секунд,по умолчанию 0
     if len(input_datetime_split) > 1:
         input_offset_only = input_datetime_split[1]
         input_offset_mins, input_offset_hours = int(input_offset_only[3:]), int(input_offset_only[:-2])
