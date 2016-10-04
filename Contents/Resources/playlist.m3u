@@ -59,7 +59,7 @@ http://172.31.254.110:5000/с8
 http://172.31.254.110:5000/с9
 #EXTINF:0,360
 http://172.31.254.110:5000/с10
-#EXTINF:0,Mult
+#EXTINF:0 tvg-id="Mult" tvg-logo="icon-default.png" group-title="Детям" group-logo="icon-folder.png,Mult
 http://172.31.254.110:5000/с11
 #EXTINF:0,T24
 http://172.31.254.110:5000/с12
@@ -83,13 +83,13 @@ http://172.31.254.110:5000/с20
 http://172.31.254.110:5000/с21
 #EXTINF:0,LifeNews
 http://172.31.254.110:5000/с22
-#EXTINF:0,Match Arena
+#EXTINF:0 tvg-id="Match Arena" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Match Arena
 http://172.31.254.110:5000/с23
-#EXTINF:0,Match Boets
+#EXTINF:0 tvg-id="Match Boets" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Match Boets
 http://172.31.254.110:5000/с24
-#EXTINF:0,Match Igra
+#EXTINF:0 tvg-id="Match Igra" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Match Igra
 http://172.31.254.110:5000/с25
-#EXTINF:0,Nash Sport
+#EXTINF:0 tvg-id="Nash Sport" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Nash Sport
 http://172.31.254.110:5000/с26
 #EXTINF:0 tvg-id="Nash Futbol" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Nash Futbol
 http://172.31.254.110:5000/с27
