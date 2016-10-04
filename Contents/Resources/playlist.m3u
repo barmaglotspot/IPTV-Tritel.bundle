@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:0 tvg-id="Pervy Kanal" tvg-logo="icon-default.png" group-title="Основные каналы" group-logo="icon-folder.png",Pervy Kanal
+#EXTINF:0 tvg-id="Pervy Kanal" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png",Pervy Kanal
 http://172.31.254.110:3000/с1
-#EXTINF:0 tvg-id="Rossiya-1" tvg-logo="icon-default.png" group-title="Основные каналы" group-logo="icon-folder.png",Rossiya-1
+#EXTINF:0 tvg-id="Rossiya-1" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png",Rossiya-1
 http://172.31.254.110:3000/с2
 #EXTINF:0 tvg-id="Match" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Match!
 http://172.31.254.110:3000/с3
-#EXTINF:0,HTB
+#EXTINF:0 tvg-id="HTB" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png,HTB
 http://172.31.254.110:3000/с4
-#EXTINF:0,5 kanal
+#EXTINF:0 tvg-id="5 kanal" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png,5 kanal
 http://172.31.254.110:3000/с5
 #EXTINF:0,Rossiya-K
 http://172.31.254.110:3000/с6
-#EXTINF:0,Rossiya 24
+#EXTINF:0 tvg-id="Rossiya 24" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png,Rossiya 24
 http://172.31.254.110:3000/с7
-#EXTINF:0,Karusel
+#EXTINF:0 tvg-id="Karusel" tvg-logo="icon-default.png" group-title="Детям" group-logo="icon-folder.png,Karusel
 http://172.31.254.110:3000/с8
 #EXTINF:0,OTP
 http://172.31.254.110:3000/с9
@@ -47,9 +47,9 @@ http://172.31.254.110:5000/с2
 http://172.31.254.110:5000/с3
 #EXTINF:0,Millet
 http://172.31.254.110:5000/с4
-#EXTINF:0,Krym 1
+#EXTINF:0 tvg-id="Krym 1" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png,Krym 1
 http://172.31.254.110:5000/с5
-#EXTINF:0,Krym 24
+#EXTINF:0 tvg-id="Krym 24" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png,Krym 24
 http://172.31.254.110:5000/с6
 #EXTINF:0,Moya Planeta
 http://172.31.254.110:5000/с7
