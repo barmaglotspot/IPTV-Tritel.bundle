@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:0 tvg-id="Pervy Kanal" tvg-logo="Pervy Kanal.png" group-title="Основные" group-logo="icon-folder.png",Pervy Kanal
+#EXTINF:0 tvg-id="Pervy Kanal" tvg-logo="Pervy Kanal.png" group-title="Основные" group-logo="icon-folder.png", Pervy Kanal
 http://172.31.254.110:3000/с1
-#EXTINF:0 tvg-id="Rossiya-1" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png",Rossiya-1
+#EXTINF:0 tvg-id="Rossiya-1" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png", Rossiya-1
 http://172.31.254.110:3000/с2
-#EXTINF:0 tvg-id="Match" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Match!
+#EXTINF:0 tvg-id="Match" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png", Match!
 http://172.31.254.110:3000/с3
-#EXTINF:0 tvg-id="HTB" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png,HTB
+#EXTINF:0 tvg-id="HTB" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png, HTB
 http://172.31.254.110:3000/с4
-#EXTINF:0 tvg-id="5 kanal" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png,5 kanal
+#EXTINF:0 tvg-id="5 kanal" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png, 5 kanal
 http://172.31.254.110:3000/с5
-#EXTINF:0,Rossiya-K
+#EXTINF:0tvg-id="Rossiya-K" tvg-logo="Rossiya-K.png" group-title="Основные" group-logo="icon-folder.png", Rossiya-K
 http://172.31.254.110:3000/с6
-#EXTINF:0 tvg-id="Rossiya 24" logo="Rossiya 24.png" group-title="Основные" group-logo="icon-folder.png,Rossiya 24
+#EXTINF:0 tvg-id="Rossiya 24" logo="Rossiya 24.png" group-title="Основные" group-logo="icon-folder.png, Rossiya 24
 http://172.31.254.110:3000/с7
-#EXTINF:0 tvg-id="Karusel" tvg-logo="icon-default.png" group-title="Детям" group-logo="icon-folder.png,Karusel
+#EXTINF:0 tvg-id="Karusel" tvg-logo="Karusel.png" group-title="Детям" group-logo="icon-folder.png, Karusel
 http://172.31.254.110:3000/с8
 #EXTINF:0,OTP
 http://172.31.254.110:3000/с9
@@ -31,11 +31,11 @@ http://172.31.254.110:3000/с14
 http://172.31.254.110:3000/с15
 #EXTINF:0,Pyatnica				
 http://172.31.254.110:3000/с16
-#EXTINF:0,Zvezda
+#EXTINF:0 tvg-id="Zvezda" tvg-logo="Zvezda.png" group-title="Детям" group-logo="icon-folder.png, Zvezda
 http://172.31.254.110:3000/с17
 #EXTINF:0,Mir
 http://172.31.254.110:3000/с18
-#EXTINF:0,THT
+#EXTINF:0 tvg-id="THT" tvg-logo="THT.png" group-title="Детям" group-logo="icon-folder.png, THT
 http://172.31.254.110:3000/с19
 #EXTINF:0,Muz
 http://172.31.254.110:3000/с20
@@ -47,9 +47,9 @@ http://172.31.254.110:5000/с2
 http://172.31.254.110:5000/с3
 #EXTINF:0,Millet
 http://172.31.254.110:5000/с4
-#EXTINF:0 tvg-id="Krym 1" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png,Krym 1
+#EXTINF:0 tvg-id="Krym 1" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png, Krym 1
 http://172.31.254.110:5000/с5
-#EXTINF:0 tvg-id="Krym 24" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png,Krym 24
+#EXTINF:0 tvg-id="Krym 24" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png, Krym 24
 http://172.31.254.110:5000/с6
 #EXTINF:0,Moya Planeta
 http://172.31.254.110:5000/с7
@@ -59,7 +59,7 @@ http://172.31.254.110:5000/с8
 http://172.31.254.110:5000/с9
 #EXTINF:0,360
 http://172.31.254.110:5000/с10
-#EXTINF:0 tvg-id="Mult" tvg-logo="icon-default.png" group-title="Детям" group-logo="icon-folder.png,Mult
+#EXTINF:0 tvg-id="Mult" tvg-logo="Mult.png" group-title="Детям" group-logo="icon-folder.png, Mult
 http://172.31.254.110:5000/с11
 #EXTINF:0,T24
 http://172.31.254.110:5000/с12
@@ -67,7 +67,7 @@ http://172.31.254.110:5000/с12
 http://172.31.254.110:5000/с13
 #EXTINF:0,Teleputeshestvia
 http://172.31.254.110:5000/с14
-#EXTINF:0,AvtoPlus
+#EXTINF:0 tvg-id="AvtoPlus" tvg-logo="AvtoPlus.png" group-title="Детям" group-logo="icon-folder.png, AvtoPlus
 http://172.31.254.110:5000/с15
 #EXTINF:0,Indijskoe Kino
 http://172.31.254.110:5000/с16
@@ -77,29 +77,29 @@ http://172.31.254.110:5000/с17
 http://172.31.254.110:5000/с18
 #EXTINF:0,Kinokommediya
 http://172.31.254.110:5000/с19
-#EXTINF:0,Muzhskoe Kino
+#EXTINF:0 tvg-id="Muzhskoe Kino" tvg-logo="Muzhskoe Kino.png" group-title="Спорт" group-logo="icon-folder.png", Muzhskoe Kino
 http://172.31.254.110:5000/с20
 #EXTINF:0,TV-FM
 http://172.31.254.110:5000/с21
 #EXTINF:0,LifeNews
 http://172.31.254.110:5000/с22
-#EXTINF:0 tvg-id="Match Arena" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Match Arena
+#EXTINF:0 tvg-id="Match Arena" tvg-logo="Match Arena.png" group-title="Спорт" group-logo="icon-folder.png", Match Arena
 http://172.31.254.110:5000/с23
-#EXTINF:0 tvg-id="Match Boets" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Match Boets
+#EXTINF:0 tvg-id="Match Boets" tvg-logo="Match Boets.png" group-title="Спорт" group-logo="icon-folder.png", Match Boets
 http://172.31.254.110:5000/с24
-#EXTINF:0 tvg-id="Match Igra" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Match Igra
+#EXTINF:0 tvg-id="Match Igra" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png", Match Igra
 http://172.31.254.110:5000/с25
-#EXTINF:0 tvg-id="Nash Sport" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Nash Sport
+#EXTINF:0 tvg-id="Nash Sport" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png", Nash Sport
 http://172.31.254.110:5000/с26
-#EXTINF:0 tvg-id="Nash Futbol" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Nash Futbol
+#EXTINF:0 tvg-id="Nash Futbol" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png", Nash Futbol
 http://172.31.254.110:5000/с27
 #EXTINF:0 tvg-id="KHL" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",KHL
 http://172.31.254.110:5000/с28
-#EXTINF:0 tvg-id="Football 1 HD" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Football 1 HD
+#EXTINF:0 tvg-id="Football 1 HD" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png", Football 1 HD
 http://172.31.254.110:5000/с29
-#EXTINF:0 tvg-id="Football 2 HD" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Football 2 HD
+#EXTINF:0 tvg-id="Football 2 HD" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png", Football 2 HD
 http://172.31.254.110:5000/с30
-#EXTINF:0 tvg-id="Football 3 HD" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",Football 3 HD
+#EXTINF:0 tvg-id="Football 3 HD" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png", Football 3 HD
 http://172.31.254.110:5000/с31
 #EXTINF:0,Kinopokaz
 http://172.31.254.110:5000/с32
