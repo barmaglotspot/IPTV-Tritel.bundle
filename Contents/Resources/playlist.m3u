@@ -3,7 +3,7 @@
 http://172.31.254.110:3000/с1
 #EXTINF:0 tvg-id="Rossiya-1" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png", Rossiya-1
 http://172.31.254.110:3000/с2
-#EXTINF:0 tvg-id="Match" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png", Match!
+#EXTINF:0 tvg-id="Match" tvg-logo="Match!.png" group-title="Спорт" group-logo="icon-folder.png", Match!
 http://172.31.254.110:3000/с3
 #EXTINF:0 tvg-id="HTB" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png, HTB
 http://172.31.254.110:3000/с4
