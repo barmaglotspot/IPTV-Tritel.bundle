@@ -31,7 +31,7 @@ http://172.31.254.110:3000/с14
 http://172.31.254.110:3000/с15
 #EXTINF:0,Pyatnica				
 http://172.31.254.110:3000/с16
-#EXTINF:0 tvg-id="Zvezda" tvg-logo="Zvezda.png" group-title="Детям" group-logo="icon-folder.png, Zvezda
+#EXTINF:0 tvg-id="Zvezda" tvg-logo="zvezda.png" group-title="Детям" group-logo="icon-folder.png, Zvezda
 http://172.31.254.110:3000/с17
 #EXTINF:0,Mir
 http://172.31.254.110:3000/с18
@@ -59,7 +59,7 @@ http://172.31.254.110:5000/с8
 http://172.31.254.110:5000/с9
 #EXTINF:0,360
 http://172.31.254.110:5000/с10
-#EXTINF:0 tvg-id="Mult" tvg-logo="Mult.png" group-title="Детям" group-logo="icon-folder.png, Mult
+#EXTINF:0 tvg-id="Mult" tvg-logo="mult.png" group-title="Детям" group-logo="icon-folder.png, Mult
 http://172.31.254.110:5000/с11
 #EXTINF:0,T24
 http://172.31.254.110:5000/с12
