@@ -105,7 +105,7 @@ http://172.31.254.110:5000/с31
 http://172.31.254.110:5000/с32
 #EXTINF:0,Zagorodnyi TV
 http://172.31.254.110:5000/с33
-#EXTINF:0 tvg-id="hotnik i Rybolov" tvg-logo="Ohotnik i Rybolov.png" group-title="Спорт" group-logo="icon-folder.png", Ohotnik i Rybolov
+#EXTINF:0 tvg-id="Ohotnik i Rybolov" tvg-logo="Ohotnik i Rybolov.png" group-title="Спорт" group-logo="icon-folder.png", Ohotnik i Rybolov
 http://172.31.254.110:5000/с34
 #EXTINF:0,Tonus TV
 http://172.31.254.110:5000/с35
