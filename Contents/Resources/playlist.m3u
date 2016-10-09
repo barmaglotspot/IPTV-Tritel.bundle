@@ -107,5 +107,5 @@ http://172.31.254.110:5000/с32
 http://172.31.254.110:5000/с33
 #EXTINF:0 tvg-id="Ohotnik i Rybolov" tvg-logo="Ohotnik i Rybolov.png" group-title="Спорт" group-logo="icon-folder.png", Ohotnik i Rybolov
 http://172.31.254.110:5000/с34
-#EXTINF:0,Tonus TV
+#EXTINF:0 tvg-id="Tonus TV" tvg-logo="Tonus TV.png" group-title="Спорт" group-logo="icon-folder.png", Tonus TV
 http://172.31.254.110:5000/с35
