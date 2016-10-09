@@ -81,7 +81,7 @@ http://172.31.254.110:5000/с19
 http://172.31.254.110:5000/с20
 #EXTINF:0,TV-FM
 http://172.31.254.110:5000/с21
-#EXTINF:0,LifeNews
+#EXTINF:0 tvg-id="LifeNews" tvg-logo="LifeNews.png" group-title="Спорт" group-logo="icon-folder.png", LifeNews
 http://172.31.254.110:5000/с22
 #EXTINF:0 tvg-id="Match Arena" tvg-logo="Match Arena.png" group-title="Спорт" group-logo="icon-folder.png", Match Arena
 http://172.31.254.110:5000/с23
