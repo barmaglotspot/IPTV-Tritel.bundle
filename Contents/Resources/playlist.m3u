@@ -27,7 +27,7 @@ http://172.31.254.110:3000/с12
 http://172.31.254.110:3000/с13
 #EXTINF:0,Domashny
 http://172.31.254.110:3000/с14
-#EXTINF:0,TB 3
+#EXTINF:0 tvg-id="TB 3" tvg-logo="TB 3.png" group-title="Детям" group-logo="icon-folder.png, TB 3
 http://172.31.254.110:3000/с15
 #EXTINF:0,Pyatnica				
 http://172.31.254.110:3000/с16
