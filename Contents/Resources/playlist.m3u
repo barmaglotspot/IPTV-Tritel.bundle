@@ -61,7 +61,7 @@ http://172.31.254.110:5000/с9
 http://172.31.254.110:5000/с10
 #EXTINF:0 tvg-id="Mult" tvg-logo="mult.png" group-title="Детям" group-logo="icon-folder.png, Mult
 http://172.31.254.110:5000/с11
-#EXTINF:0,T24
+#EXTINF:0 tvg-id="T24" tvg-logo="T24.png" group-title="Детям" group-logo="icon-folder.png, T24
 http://172.31.254.110:5000/с12
 #EXTINF:0,Ryzhi
 http://172.31.254.110:5000/с13
@@ -87,13 +87,13 @@ http://172.31.254.110:5000/с22
 http://172.31.254.110:5000/с23
 #EXTINF:0 tvg-id="Match Boets" tvg-logo="Match Boets.png" group-title="Спорт" group-logo="icon-folder.png", Match Boets
 http://172.31.254.110:5000/с24
-#EXTINF:0 tvg-id="Match Igra" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png", Match Igra
+#EXTINF:0 tvg-id="Match Igra" tvg-logo="Match Igra.png" group-title="Спорт" group-logo="icon-folder.png", Match Igra
 http://172.31.254.110:5000/с25
 #EXTINF:0 tvg-id="Nash Sport" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png", Nash Sport
 http://172.31.254.110:5000/с26
-#EXTINF:0 tvg-id="Nash Futbol" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png", Nash Futbol
+#EXTINF:0 tvg-id="Nash Futbol" tvg-logo="Nash Futbol.png" group-title="Спорт" group-logo="icon-folder.png", Nash Futbol
 http://172.31.254.110:5000/с27
-#EXTINF:0 tvg-id="KHL" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png",KHL
+#EXTINF:0 tvg-id="KHL" tvg-logo="KHL.png" group-title="Спорт" group-logo="icon-folder.png", KHL
 http://172.31.254.110:5000/с28
 #EXTINF:0 tvg-id="Football 1 HD" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png", Football 1 HD
 http://172.31.254.110:5000/с29
@@ -105,7 +105,7 @@ http://172.31.254.110:5000/с31
 http://172.31.254.110:5000/с32
 #EXTINF:0,Zagorodnyi TV
 http://172.31.254.110:5000/с33
-#EXTINF:0,Ohotnik i Rybolov
+#EXTINF:0 tvg-id="Football 3 HD" tvg-logo="Ohotnik i Rybolov.png" group-title="Спорт" group-logo="icon-folder.png", Ohotnik i Rybolov
 http://172.31.254.110:5000/с34
 #EXTINF:0,Tonus TV
 http://172.31.254.110:5000/с35
