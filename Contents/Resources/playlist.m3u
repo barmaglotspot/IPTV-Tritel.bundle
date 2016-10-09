@@ -47,15 +47,15 @@ http://172.31.254.110:5000/с2
 http://172.31.254.110:5000/с3
 #EXTINF:0,Millet
 http://172.31.254.110:5000/с4
-#EXTINF:0 tvg-id="Krym 1" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png, Krym 1
+#EXTINF:0 tvg-id="Krym 1" tvg-logo="Krym 1.png" group-title="Основные" group-logo="icon-folder.png, Krym 1
 http://172.31.254.110:5000/с5
-#EXTINF:0 tvg-id="Krym 24" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png, Krym 24
+#EXTINF:0 tvg-id="Krym 24" tvg-logo="Krym 24.png" group-title="Основные" group-logo="icon-folder.png, Krym 24
 http://172.31.254.110:5000/с6
 #EXTINF:0 tvg-id="Moya Planeta" tvg-logo="Moya Planeta.png" group-title="Основные" group-logo="icon-folder.png, Moya Planeta
 http://172.31.254.110:5000/с7
 #EXTINF:0,Russky Roman
 http://172.31.254.110:5000/с8
-#EXTINF:0,Sarafan
+#EXTINF:0 tvg-id="Sarafan" tvg-logo="Sarafan.png" group-title="Основные" group-logo="icon-folder.png, Sarafan
 http://172.31.254.110:5000/с9
 #EXTINF:0,360
 http://172.31.254.110:5000/с10
