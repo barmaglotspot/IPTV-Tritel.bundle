@@ -51,7 +51,7 @@ http://172.31.254.110:5000/с4
 http://172.31.254.110:5000/с5
 #EXTINF:0 tvg-id="Krym 24" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png, Krym 24
 http://172.31.254.110:5000/с6
-#EXTINF:0,Moya Planeta
+#EXTINF:0 tvg-id="Moya Planeta" tvg-logo="Moya Planeta.png" group-title="Основные" group-logo="icon-folder.png, Moya Planeta
 http://172.31.254.110:5000/с7
 #EXTINF:0,Russky Roman
 http://172.31.254.110:5000/с8
