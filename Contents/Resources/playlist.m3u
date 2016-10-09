@@ -69,7 +69,7 @@ http://172.31.254.110:5000/с13
 http://172.31.254.110:5000/с14
 #EXTINF:0 tvg-id="AvtoPlus" tvg-logo="AvtoPlus.png" group-title="Детям" group-logo="icon-folder.png, AvtoPlus
 http://172.31.254.110:5000/с15
-#EXTINF:0,Indijskoe Kino
+#EXTINF:0 tvg-id="Indijskoe Kino" tvg-logo="Indijskoe Kino.png" group-title="Детям" group-logo="icon-folder.png, Indijskoe Kino
 http://172.31.254.110:5000/с16
 #EXTINF:0,Kinomix
 http://172.31.254.110:5000/с17
