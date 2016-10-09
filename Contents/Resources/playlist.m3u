@@ -41,7 +41,7 @@ http://172.31.254.110:3000/с19
 http://172.31.254.110:3000/с20
 #EXTINF:0,Mir 24
 http://172.31.254.110:5000/с1
-#EXTINF:0,ChE
+#EXTINF:0 tvg-id="ChE" tvg-logo="ChE.png" group-title="Детям" group-logo="icon-folder.png, ChE
 http://172.31.254.110:5000/с2
 #EXTINF:0,Moskva 24
 http://172.31.254.110:5000/с3
