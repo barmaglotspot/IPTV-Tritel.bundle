@@ -33,13 +33,13 @@ http://172.31.254.110:3000/с15
 http://172.31.254.110:3000/с16
 #EXTINF:0 tvg-id="Zvezda" tvg-logo="zvezda.png" group-title="Детям" group-logo="icon-folder.png, Zvezda
 http://172.31.254.110:3000/с17
-#EXTINF:0,Mir
+#EXTINF:0 tvg-id="Mir" tvg-logo="Mir.png" group-title="Детям" group-logo="icon-folder.png, Mir
 http://172.31.254.110:3000/с18
 #EXTINF:0 tvg-id="THT" tvg-logo="THT.png" group-title="Детям" group-logo="icon-folder.png, THT
 http://172.31.254.110:3000/с19
 #EXTINF:0 tvg-id="Muz" tvg-logo="Muz.png" group-title="Детям" group-logo="icon-folder.png, Muz
 http://172.31.254.110:3000/с20
-#EXTINF:0,Mir 24
+#EXTINF:0 tvg-id="Mir 24" tvg-logo="Mir 24.png" group-title="Детям" group-logo="icon-folder.png, Mir 24
 http://172.31.254.110:5000/с1
 #EXTINF:0 tvg-id="ChE" tvg-logo="ChE.png" group-title="Детям" group-logo="icon-folder.png, ChE
 http://172.31.254.110:5000/с2
