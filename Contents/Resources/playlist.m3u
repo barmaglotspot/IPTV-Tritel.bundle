@@ -5,7 +5,7 @@ http://172.31.254.110:3000/с1
 http://172.31.254.110:3000/с2
 #EXTINF:0 tvg-id="Match" tvg-logo="Match!.png" group-title="Спорт" group-logo="icon-folder.png", Match!
 http://172.31.254.110:3000/с3
-#EXTINF:0 tvg-id="HTB" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png, HTB
+#EXTINF:0 tvg-id="HTB" tvg-logo="HTB.png" group-title="Основные" group-logo="icon-folder.png, HTB
 http://172.31.254.110:3000/с4
 #EXTINF:0 tvg-id="5 kanal" tvg-logo="icon-default.png" group-title="Основные" group-logo="icon-folder.png, 5 kanal
 http://172.31.254.110:3000/с5
