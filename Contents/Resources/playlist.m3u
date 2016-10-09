@@ -21,7 +21,7 @@ http://172.31.254.110:3000/с9
 http://172.31.254.110:3000/с10
 #EXTINF:0,REN-TV
 http://172.31.254.110:3000/с11
-#EXTINF:0,SPAS
+#EXTINF:0 tvg-id="SPAS" tvg-logo="SPAS.png" group-title="Детям" group-logo="icon-folder.png, SPAS
 http://172.31.254.110:3000/с12
 #EXTINF:0,STS
 http://172.31.254.110:3000/с13
