@@ -45,7 +45,7 @@ http://172.31.254.110:5000/с1
 http://172.31.254.110:5000/с2
 #EXTINF:0,Moskva 24
 http://172.31.254.110:5000/с3
-#EXTINF:0,Millet
+#EXTINF:0 tvg-id="Millet" tvg-logo="Millet.png" group-title="Основные" group-logo="icon-folder.png, Millet
 http://172.31.254.110:5000/с4
 #EXTINF:0 tvg-id="Krym 1" tvg-logo="Krym 1.png" group-title="Основные" group-logo="icon-folder.png, Krym 1
 http://172.31.254.110:5000/с5
