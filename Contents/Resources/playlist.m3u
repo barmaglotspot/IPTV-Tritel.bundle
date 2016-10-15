@@ -95,11 +95,11 @@ http://172.31.254.110:5000/с26
 http://172.31.254.110:5000/с27
 #EXTINF:0 tvg-id="KHL" tvg-logo="KHL.png" group-title="Спорт" group-logo="icon-folder.png", KHL
 http://172.31.254.110:5000/с28
-#EXTINF:0 tvg-id="Football 1 HD" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png", Football 1 HD
+#EXTINF:0 tvg-id="Football 1 HD" tvg-logo="Football 1.png" group-title="Спорт" group-logo="icon-folder.png", Football 1 HD
 http://172.31.254.110:5000/с29
-#EXTINF:0 tvg-id="Football 2 HD" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png", Football 2 HD
+#EXTINF:0 tvg-id="Football 2 HD" tvg-logo="Football 2.png" group-title="Спорт" group-logo="icon-folder.png", Football 2 HD
 http://172.31.254.110:5000/с30
-#EXTINF:0 tvg-id="Football 3 HD" tvg-logo="icon-default.png" group-title="Спорт" group-logo="icon-folder.png", Football 3 HD
+#EXTINF:0 tvg-id="Football 3 HD" tvg-logo="Football 3.png" group-title="Спорт" group-logo="icon-folder.png", Football 3 HD
 http://172.31.254.110:5000/с31
 #EXTINF:0,Kinopokaz
 http://172.31.254.110:5000/с32
