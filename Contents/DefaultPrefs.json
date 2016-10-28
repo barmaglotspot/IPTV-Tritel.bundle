@@ -3,7 +3,7 @@
         "id":       "playlist",
         "label":    "Файл плейлиста или адрес URL (необходим перезапуск)",
         "type":     "text",
-        "default":  "https://raw.githubusercontent.com/barmaglotspot/IPTV-Tritel.bundle/master/Contents/Resources/playlist.m3u"
+        "default":  "http://cp.tritel.net.ru/files/Tritel-IPTV.m3u"
     },
     {
         "id":       "sort_groups",
